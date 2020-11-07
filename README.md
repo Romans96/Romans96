@@ -31,3 +31,8 @@ Here are some ideas to get you started:
   - Creator of the RPG/Economy System that permits to players to gain the Discord community value from vocal channels and from game contents
 - 1st Developer for [Destiny 2 Italia Official Discord Community](https://discord.com/invite/destiny2italia)
 
+## Most used libraries
+
+- [DisocrdJS](https://discord.js.org/#/) - for Discord Bot Integration and Creation
+- [SequelizeJS](https://sequelize.org/) - promise-based ORM(Object-Relational Mapping) for NodeJS Databse Implementation
+- [TelegrafJS](https://telegraf.js.org/#/) - NodeJS Framework for Telegram Bot Integration and Creation
