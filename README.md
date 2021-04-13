@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Romans96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Romans96&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Participations
