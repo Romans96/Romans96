@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 - 1st Developer for [Destiny 2 Italia Official Discord Community](https://discord.com/invite/destiny2italia)
 
 ## Top Languages
-[![Romans GitHub stats](https://github-readme-stats.vercel.app/api?username=Romans96)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Romans96)](https://github.com/anuraghazra/github-readme-stats)
+
