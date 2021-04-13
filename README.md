@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Used Languages
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Romans96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Participations
 
@@ -20,6 +22,5 @@ Here are some ideas to get you started:
   - Creator of the RPG/Economy System that permits to players to gain the Discord community value from vocal channels and from game contents
 - 1st Developer for [Destiny 2 Italia Official Discord Community](https://discord.com/invite/destiny2italia)
 
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Romans96)](https://github.com/anuraghazra/github-readme-stats)
+
 
